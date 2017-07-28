@@ -8,22 +8,9 @@
 ?>
 <html>
 <head>
-	<title>OOP</title>
+    <title>OOP</title>
 </head>
 <body>
-<?php
 
-class SomeClass
-{
-	public function qer($x){
-	}
-}
-$obj = new SomeClass();
-
-var_dump(
-	$obj instanceof stdClass
-)
-
-?>
 </body>
 </html>
